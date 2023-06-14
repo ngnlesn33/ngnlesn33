@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngnlesn33
-- 👀 I’m interested in backend 
+- 👀 I’m interested in backend development
 - 🌱 I'm currently a student at Hanoi University of Science and Technology.
 - 📫 How to reach me: https://www.facebook.com/son.nguyenle.560/
 
