@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngnlesn33
-- 👀 I’m interested in backend development
+- 👀 I’m interested in web development
 - 🌱 I'm currently a student at Hanoi University of Science and Technology.
-- 📫 How to reach me: https://www.facebook.com/son.nguyenle.560/
+- 📫 How to reach me: nguyenleson0002@gmail.com
 
 <!---
 ngnlesn33/ngnlesn33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
